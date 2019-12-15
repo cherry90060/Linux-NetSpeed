@@ -8,7 +8,7 @@
 
 apt-get -y install ca-certificates或yum -y install ca-certificates
 
-二、安装 
+二、安装 wget "https://raw.githubusercontent.com/cherry90060/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 
 
 1、先在[1 – 3]切换内核（第一次显示为bbr内核也要切换一遍），重启
